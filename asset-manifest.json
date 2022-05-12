@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/school_react_web/static/css/main.dfbf26b6.css",
+    "main.js": "/school_react_web/static/js/main.24283d34.js",
+    "static/media/bubt-logo.jpg": "/school_react_web/static/media/bubt-logo.a45661ebe342c774f55b.jpg",
+    "static/media/abb.jpg": "/school_react_web/static/media/abb.f82766965314dfaa8c35.jpg",
+    "static/media/sc4.jpg": "/school_react_web/static/media/sc4.305954ad792266490c78.jpg",
+    "static/media/mbl3.jpg": "/school_react_web/static/media/mbl3.b96f47a8d6c15600591c.jpg",
+    "static/media/mbl1.jpg": "/school_react_web/static/media/mbl1.29e52aa034e2f84eeafb.jpg",
+    "static/media/mbl2.jpg": "/school_react_web/static/media/mbl2.23cb9733bf967463ae9b.jpg",
+    "static/media/serv2.jpg": "/school_react_web/static/media/serv2.09a1c2880410873bd418.jpg",
+    "static/media/bbypc.jpg": "/school_react_web/static/media/bbypc.a3e6222bdc56a71ea9f7.jpg",
+    "static/media/book3.jpg": "/school_react_web/static/media/book3.d7f6d4fcb6e82337c90b.jpg",
+    "static/media/mbl4.jpg": "/school_react_web/static/media/mbl4.45958c72cd4432c9ca97.jpg",
+    "static/media/rct.jpg": "/school_react_web/static/media/rct.461c8335eb0c36e71421.jpg",
+    "static/media/sc1.jpg": "/school_react_web/static/media/sc1.55d8217ba9f59b013218.jpg",
+    "static/media/sc8.jpg": "/school_react_web/static/media/sc8.4ce96f4abac070134058.jpg",
+    "index.html": "/school_react_web/index.html",
+    "main.dfbf26b6.css.map": "/school_react_web/static/css/main.dfbf26b6.css.map",
+    "main.24283d34.js.map": "/school_react_web/static/js/main.24283d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbf26b6.css",
+    "static/js/main.24283d34.js"
+  ]
+}
